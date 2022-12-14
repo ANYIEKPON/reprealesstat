@@ -1,0 +1,96 @@
+/* h1 {
+  color: green;
+}
+
+p {
+  color: yellow;
+}
+
+label {
+  color: red;
+}
+
+.fah,
+.temp {
+  color: orange;
+}
+
+#ID_Selector {
+  text-transform: uppercase;
+  color: brown;
+}
+
+.post > p {
+  color: purple;
+} */
+
+/* #post li {
+  color: green;
+}
+
+h3 ~ p,
+h4 {
+  color: orange;
+}
+
+body:hover {
+  background-image: url(../images/aboutpage3.jpg);
+} */
+
+* {
+  font-size: 20px;
+}
+/* a[target] {
+  color: red;
+  font-size: 20px;
+} */
+
+/* Header Style */
+a:link {
+  color: red;
+}
+
+.child p:nth-child(3) {
+  color: rgba(158, 97, 97, 0.1);
+}
+
+p::first-letter {
+  font-style: italic;
+  font-size: 50px;
+}
+
+/* a {
+  text-decoration: none;
+} */
+.first {
+  background-color: yellow;
+  display: flex;
+}
+
+.second {
+  background-color: purple;
+  /* display: flex; */
+}
+.first-one {
+  background-color: aqua;
+  border-radius: 20px;
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+.first-second {
+  background-color: aquamarine;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  height: 100px;
+  width: 80px;
+}
+
+.first-secondz {
+  background-color: aquamarine;
+  border-radius: 20px;
+  height: 100px;
+  width: 80px;
+}
